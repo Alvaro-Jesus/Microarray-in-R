@@ -1,2 +1,2 @@
-# Microarray-in-R
-Pipeline to analyze .CEL files
+# Microarray in R
+Pipeline to analyze affymetrix .CEL files
