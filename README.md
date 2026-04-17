@@ -1,2 +1,2 @@
 # Microarray in R
-Pipeline to analyze affymetrix .CEL files
+Pipeline to download and analyze affymetrix .CEL files from GEO data
