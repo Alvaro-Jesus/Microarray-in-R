@@ -11,7 +11,7 @@ pacman::p_load(
 ####- 2-- Set up your working directory ----------####
 #-##################################################-#
 
-setwd("C:/Users/ATL2024_03/OneDrive - Kagoshima University (1)/Maestría/BLV PROYECT/New attempt")
+setwd("COPY_YOUR_PATH_HERE")
 
 #setwd("C:/Users/user/OneDrive - Kagoshima University (1)/Maestría/BLV PROYECT/New attempt")
 
